@@ -64,9 +64,3 @@ Please notify me all the "undocumented features" (bugs)
 I'm not responsible of any of your acts, this tool has been created for educational purposes.
 
 Please look into the code to understand the concept and how it works.
-
-# Screenshoots
-![image](https://user-images.githubusercontent.com/84512017/153729688-f4eeade1-5de6-4d88-bece-cf0e7d5c209d.png)
-
-![image](https://user-images.githubusercontent.com/84512017/153729730-76dbaa66-b47b-4184-9085-56f74cff2c72.png)
-
