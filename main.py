@@ -1,5 +1,5 @@
 """
-Copyright © 2022 !Jet#0728
+Copyright © 2022 Nashiito#2896
 This software is completely free and you are not allowed to sell it or to copy without any credits or asking for permission. Everything else is allowed, including modificaction and distribution.
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
@@ -17,7 +17,7 @@ def main():
 def help():
     print("""
     
-    Hey, I'm Jet, I'm gonna help you with this tool because is 
+    Hey, I'm Nashiito, I'm gonna help you with this tool because is 
     not completely auto for the moment. For using this tool you
     will have to edit WEBHOOK_URL, IP AND PORT. This can be done
     by:
@@ -34,7 +34,7 @@ def help():
     
     Thanks for using!!
 
-    Jet
+    Nashiito
 
     """
     )
@@ -51,7 +51,7 @@ def menu():
      / __/ / /_/ / /_/_____/__/ / /_/  __/ /_/ / /  __/ /    
     /_/    \__,_/\__/     /____/\__/\___/\__,_/_/\___/_/     
 
-                    [@] Coded by JetBerri
+                    [@] Coded by Nashiito
 
         """
         )
